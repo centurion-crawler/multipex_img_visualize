@@ -1,0 +1,83 @@
+[2024-06-15 08:44:22,232][train_kvasir.py][line:110][INFO] Starting training:
+        Epochs:          200
+        Batch size:      8
+        Learning rate:   0.001
+        Training size:   2106
+        Vailding size:   251
+        Checkpoints:     True
+        Device:          cuda
+        Images size:  224
+    
+[2024-06-15 10:09:48,632][train_kvasir.py][line:199][INFO] epoch: 1 train_loss: 3.910 epoch_dice: 69.751, best_dice: 69.751
+[2024-06-15 10:10:00,125][train_kvasir.py][line:209][INFO] Checkpoint 1 saved !
+[2024-06-15 11:33:57,862][train_kvasir.py][line:199][INFO] epoch: 2 train_loss: 3.183 epoch_dice: 80.240, best_dice: 80.240
+[2024-06-15 11:34:13,374][train_kvasir.py][line:209][INFO] Checkpoint 2 saved !
+[2024-06-15 12:58:24,451][train_kvasir.py][line:199][INFO] epoch: 3 train_loss: 2.992 epoch_dice: 82.468, best_dice: 82.468
+[2024-06-15 12:58:31,173][train_kvasir.py][line:209][INFO] Checkpoint 3 saved !
+[2024-06-15 14:17:24,767][train_kvasir.py][line:199][INFO] epoch: 4 train_loss: 2.923 epoch_dice: 84.465, best_dice: 84.465
+[2024-06-15 14:17:31,675][train_kvasir.py][line:209][INFO] Checkpoint 4 saved !
+[2024-06-15 15:28:50,988][train_kvasir.py][line:199][INFO] epoch: 5 train_loss: 2.884 epoch_dice: 83.307, best_dice: 84.465
+[2024-06-15 16:37:07,352][train_kvasir.py][line:199][INFO] epoch: 6 train_loss: 2.857 epoch_dice: 84.143, best_dice: 84.465
+[2024-06-15 17:39:23,650][train_kvasir.py][line:199][INFO] epoch: 7 train_loss: 2.848 epoch_dice: 84.399, best_dice: 84.465
+[2024-06-15 18:40:53,283][train_kvasir.py][line:199][INFO] epoch: 8 train_loss: 2.811 epoch_dice: 84.832, best_dice: 84.832
+[2024-06-15 18:40:58,464][train_kvasir.py][line:209][INFO] Checkpoint 8 saved !
+[2024-06-15 19:43:48,726][train_kvasir.py][line:199][INFO] epoch: 9 train_loss: 2.804 epoch_dice: 83.764, best_dice: 84.832
+[2024-06-15 20:46:33,424][train_kvasir.py][line:199][INFO] epoch: 10 train_loss: 2.771 epoch_dice: 84.950, best_dice: 84.950
+[2024-06-15 20:46:40,209][train_kvasir.py][line:209][INFO] Checkpoint 10 saved !
+[2024-06-15 21:50:18,212][train_kvasir.py][line:199][INFO] epoch: 11 train_loss: 2.762 epoch_dice: 83.781, best_dice: 84.950
+[2024-06-15 22:46:06,263][train_kvasir.py][line:199][INFO] epoch: 12 train_loss: 2.748 epoch_dice: 84.438, best_dice: 84.950
+[2024-06-15 23:33:52,735][train_kvasir.py][line:199][INFO] epoch: 13 train_loss: 2.745 epoch_dice: 84.966, best_dice: 84.966
+[2024-06-15 23:33:57,205][train_kvasir.py][line:209][INFO] Checkpoint 13 saved !
+[2024-06-16 00:20:09,729][train_kvasir.py][line:199][INFO] epoch: 14 train_loss: 2.726 epoch_dice: 85.002, best_dice: 85.002
+[2024-06-16 00:20:12,834][train_kvasir.py][line:209][INFO] Checkpoint 14 saved !
+[2024-06-16 01:04:02,903][train_kvasir.py][line:199][INFO] epoch: 15 train_loss: 2.716 epoch_dice: 84.444, best_dice: 85.002
+[2024-06-16 01:43:29,583][train_kvasir.py][line:199][INFO] epoch: 16 train_loss: 2.702 epoch_dice: 85.023, best_dice: 85.023
+[2024-06-16 01:43:33,957][train_kvasir.py][line:209][INFO] Checkpoint 16 saved !
+[2024-06-16 02:21:13,705][train_kvasir.py][line:199][INFO] epoch: 17 train_loss: 2.685 epoch_dice: 85.862, best_dice: 85.862
+[2024-06-16 02:21:16,562][train_kvasir.py][line:209][INFO] Checkpoint 17 saved !
+[2024-06-16 02:54:49,505][train_kvasir.py][line:199][INFO] epoch: 18 train_loss: 2.683 epoch_dice: 85.420, best_dice: 85.862
+[2024-06-16 03:30:40,985][train_kvasir.py][line:199][INFO] epoch: 19 train_loss: 2.668 epoch_dice: 84.925, best_dice: 85.862
+[2024-06-16 04:06:19,913][train_kvasir.py][line:199][INFO] epoch: 20 train_loss: 2.682 epoch_dice: 84.882, best_dice: 85.862
+[2024-06-16 04:44:17,784][train_kvasir.py][line:199][INFO] epoch: 21 train_loss: 2.659 epoch_dice: 84.125, best_dice: 85.862
+[2024-06-16 05:12:41,005][train_kvasir.py][line:199][INFO] epoch: 22 train_loss: 2.655 epoch_dice: 85.204, best_dice: 85.862
+[2024-06-16 05:39:22,807][train_kvasir.py][line:199][INFO] epoch: 23 train_loss: 2.651 epoch_dice: 85.643, best_dice: 85.862
+[2024-06-16 06:09:32,710][train_kvasir.py][line:199][INFO] epoch: 24 train_loss: 2.638 epoch_dice: 85.557, best_dice: 85.862
+[2024-06-16 06:43:33,180][train_kvasir.py][line:199][INFO] epoch: 25 train_loss: 2.636 epoch_dice: 85.909, best_dice: 85.909
+[2024-06-16 06:43:35,946][train_kvasir.py][line:209][INFO] Checkpoint 25 saved !
+[2024-06-16 07:25:07,533][train_kvasir.py][line:199][INFO] epoch: 26 train_loss: 2.624 epoch_dice: 85.623, best_dice: 85.909
+[2024-06-16 08:05:11,186][train_kvasir.py][line:199][INFO] epoch: 27 train_loss: 2.607 epoch_dice: 84.910, best_dice: 85.909
+[2024-06-16 08:48:08,754][train_kvasir.py][line:199][INFO] epoch: 28 train_loss: 2.603 epoch_dice: 85.037, best_dice: 85.909
+[2024-06-16 09:32:57,879][train_kvasir.py][line:199][INFO] epoch: 29 train_loss: 2.590 epoch_dice: 85.039, best_dice: 85.909
+[2024-06-16 10:18:59,940][train_kvasir.py][line:199][INFO] epoch: 30 train_loss: 2.606 epoch_dice: 85.073, best_dice: 85.909
+[2024-06-16 11:08:09,295][train_kvasir.py][line:199][INFO] epoch: 31 train_loss: 2.595 epoch_dice: 85.414, best_dice: 85.909
+[2024-06-16 11:47:50,056][train_kvasir.py][line:199][INFO] epoch: 32 train_loss: 2.610 epoch_dice: 84.357, best_dice: 85.909
+[2024-06-16 12:26:33,622][train_kvasir.py][line:199][INFO] epoch: 33 train_loss: 2.581 epoch_dice: 85.573, best_dice: 85.909
+[2024-06-16 13:04:42,315][train_kvasir.py][line:199][INFO] epoch: 34 train_loss: 2.591 epoch_dice: 85.501, best_dice: 85.909
+[2024-06-16 13:36:02,433][train_kvasir.py][line:199][INFO] epoch: 35 train_loss: 2.585 epoch_dice: 85.769, best_dice: 85.909
+[2024-06-16 14:06:32,638][train_kvasir.py][line:199][INFO] epoch: 36 train_loss: 2.585 epoch_dice: 85.278, best_dice: 85.909
+[2024-06-16 14:36:07,158][train_kvasir.py][line:199][INFO] epoch: 37 train_loss: 2.584 epoch_dice: 84.815, best_dice: 85.909
+[2024-06-16 15:04:29,232][train_kvasir.py][line:199][INFO] epoch: 38 train_loss: 2.563 epoch_dice: 84.610, best_dice: 85.909
+[2024-06-16 15:33:50,210][train_kvasir.py][line:199][INFO] epoch: 39 train_loss: 2.577 epoch_dice: 85.832, best_dice: 85.909
+[2024-06-16 16:04:10,976][train_kvasir.py][line:199][INFO] epoch: 40 train_loss: 2.569 epoch_dice: 84.798, best_dice: 85.909
+[2024-06-16 16:33:00,617][train_kvasir.py][line:199][INFO] epoch: 41 train_loss: 2.573 epoch_dice: 84.768, best_dice: 85.909
+[2024-06-16 17:00:34,880][train_kvasir.py][line:199][INFO] epoch: 42 train_loss: 2.572 epoch_dice: 85.127, best_dice: 85.909
+[2024-06-16 17:31:57,515][train_kvasir.py][line:199][INFO] epoch: 43 train_loss: 2.574 epoch_dice: 85.103, best_dice: 85.909
+[2024-06-16 18:01:21,931][train_kvasir.py][line:199][INFO] epoch: 44 train_loss: 2.563 epoch_dice: 85.143, best_dice: 85.909
+[2024-06-16 18:28:20,987][train_kvasir.py][line:199][INFO] epoch: 45 train_loss: 2.569 epoch_dice: 85.560, best_dice: 85.909
+[2024-06-16 18:57:38,413][train_kvasir.py][line:199][INFO] epoch: 46 train_loss: 2.561 epoch_dice: 85.320, best_dice: 85.909
+[2024-06-16 19:24:50,287][train_kvasir.py][line:199][INFO] epoch: 47 train_loss: 2.565 epoch_dice: 85.189, best_dice: 85.909
+[2024-06-16 19:57:19,429][train_kvasir.py][line:199][INFO] epoch: 48 train_loss: 2.567 epoch_dice: 84.638, best_dice: 85.909
+[2024-06-16 20:30:38,726][train_kvasir.py][line:199][INFO] epoch: 49 train_loss: 2.549 epoch_dice: 85.023, best_dice: 85.909
+[2024-06-16 21:02:44,874][train_kvasir.py][line:199][INFO] epoch: 50 train_loss: 2.560 epoch_dice: 85.334, best_dice: 85.909
+[2024-06-16 21:36:26,118][train_kvasir.py][line:199][INFO] epoch: 51 train_loss: 2.568 epoch_dice: 85.618, best_dice: 85.909
+[2024-06-16 22:11:23,674][train_kvasir.py][line:199][INFO] epoch: 52 train_loss: 2.556 epoch_dice: 85.820, best_dice: 85.909
+[2024-06-16 22:42:44,215][train_kvasir.py][line:199][INFO] epoch: 53 train_loss: 2.572 epoch_dice: 85.680, best_dice: 85.909
+[2024-06-16 23:14:34,954][train_kvasir.py][line:199][INFO] epoch: 54 train_loss: 2.580 epoch_dice: 84.324, best_dice: 85.909
+[2024-06-16 23:46:24,620][train_kvasir.py][line:199][INFO] epoch: 55 train_loss: 2.566 epoch_dice: 85.481, best_dice: 85.909
+[2024-06-17 00:20:43,424][train_kvasir.py][line:199][INFO] epoch: 56 train_loss: 2.573 epoch_dice: 85.519, best_dice: 85.909
+[2024-06-17 00:53:05,994][train_kvasir.py][line:199][INFO] epoch: 57 train_loss: 2.561 epoch_dice: 85.506, best_dice: 85.909
+[2024-06-17 01:25:31,299][train_kvasir.py][line:199][INFO] epoch: 58 train_loss: 2.576 epoch_dice: 84.705, best_dice: 85.909
+[2024-06-17 01:53:57,312][train_kvasir.py][line:199][INFO] epoch: 59 train_loss: 2.576 epoch_dice: 84.916, best_dice: 85.909
+[2024-06-17 02:25:16,683][train_kvasir.py][line:199][INFO] epoch: 60 train_loss: 2.568 epoch_dice: 85.623, best_dice: 85.909
+[2024-06-17 03:31:14,867][train_kvasir.py][line:199][INFO] epoch: 61 train_loss: 2.572 epoch_dice: 85.852, best_dice: 85.909
+[2024-06-17 04:36:30,840][train_kvasir.py][line:199][INFO] epoch: 62 train_loss: 2.544 epoch_dice: 84.228, best_dice: 85.909
